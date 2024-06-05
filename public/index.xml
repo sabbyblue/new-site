@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Sabbyblue</title>
+        <link>https://sabbyblue.github.io/</link>
+        <description>Recent content on Sabbyblue</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Sabbyblue</copyright><atom:link href="https://sabbyblue.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://sabbyblue.github.io/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://sabbyblue.github.io/about/</guid>
+        <description>&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sabby@blue:~$ mommy hugo
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://sabbyblue.github.io/about/avatar.png&#34;
+	width=&#34;409&#34;
+	height=&#34;409&#34;
+	srcset=&#34;https://sabbyblue.github.io/about/avatar_hu5adcdb62bf8949453e436b5d4d154ba5_52380_480x0_resize_box_3.png 480w, https://sabbyblue.github.io/about/avatar_hu5adcdb62bf8949453e436b5d4d154ba5_52380_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+    &lt;p&gt;[&amp;hellip;]one of women&amp;rsquo;s biggest fans,&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;span&gt;Clockwork Critter, &lt;/span&gt;&lt;a href=&#34;https://crittercorner.space/friends/friends-of-the-site/&#34;&gt;&lt;cite&gt;Friends of the ite&lt;/cite&gt;&lt;/a&gt;&lt;/span&gt;&lt;/blockquote&gt;
+&lt;p&gt;Hi! I&amp;rsquo;m Sabby!! I like to draw as a hobby. I also advocate for the open source software that I use daily. I&amp;rsquo;ve used variations of Linux full-time for about 5 years now- that&amp;rsquo;s a lot! My daily driver as of today is Fedora Workstation. I&amp;rsquo;m a long time GNOME fan. I like to use apps from Flathub when available. I use Krita to produce digital art (made by KDE). Please consider supporting these projects. &lt;a class=&#34;link&#34; href=&#34;https://www.gnome.org/donate/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GNOME&lt;/a&gt;/&lt;a class=&#34;link&#34; href=&#34;https://kde.org/community/donations/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;KDE&lt;/a&gt;/&lt;a class=&#34;link&#34; href=&#34;https://www.spi-inc.org/donations/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Software in the Public Interest&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thanks for reading! Cheers!&lt;/p&gt;
+&lt;p&gt;PS: Special thanks to &lt;a class=&#34;link&#34; href=&#34;https://blahaj.land/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;blahaj.land&lt;/a&gt; for hosting the site!&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Grace: Designing a mascot for the GNOME project</title>
+        <link>https://sabbyblue.github.io/p/grace-designing-a-mascot-for-the-gnome-project/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://sabbyblue.github.io/p/grace-designing-a-mascot-for-the-gnome-project/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://sabbyblue.github.io/p/grace-designing-a-mascot-for-the-gnome-project/grace.webp&#34;
+	width=&#34;4626&#34;
+	height=&#34;3084&#34;
+	srcset=&#34;https://sabbyblue.github.io/p/grace-designing-a-mascot-for-the-gnome-project/grace_hu87110d25c309b92d9868ff2d8ccfa67a_374618_480x0_resize_q75_h2_box_2.webp 480w, https://sabbyblue.github.io/p/grace-designing-a-mascot-for-the-gnome-project/grace_hu87110d25c309b92d9868ff2d8ccfa67a_374618_1024x0_resize_q75_h2_box_2.webp 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;150&#34;
+		data-flex-basis=&#34;360px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;This is Grace the bunny! She loves to have fun, whether out and about playing sports or learning at school (and home!) She’s my mascot for the GNOME project.&lt;/p&gt;
+&lt;p&gt;Her design choices go as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Grace is a child. GNOME Desktop is made to be simple and consistent so that young people will have an easier time using their computer,  -whether it be to learn or play. (GNOME Games)&lt;/li&gt;
+&lt;li&gt;Grace is disabled! She wears prosthetic arms. Accessibility is at the core of GNOME’s philosophy; that it may benefit every person.&lt;/li&gt;
+&lt;li&gt;Grace is a girl. Women and girls are underrepresented in software development, and it’s essential to allow us a voice and encourage more girls to be interested in the area.&lt;/li&gt;
+&lt;li&gt;She’s a rabbit! GNOME’s long time icon is a small foot. And rabbits’ feet are said to give good luck. I like that symbolism. The project is changing rapidly, and luck doesn’t hurt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Her name and appearance are not final. I’ve been thinking of some cool changes like longer hair, or even making her a jackalope to complement KDE’s antlered dragon, Konqi.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Original Character Showcase: Gizmo the Rabbit!</title>
+        <link>https://sabbyblue.github.io/p/original-character-showcase-gizmo-the-rabbit/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://sabbyblue.github.io/p/original-character-showcase-gizmo-the-rabbit/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://sabbyblue.github.io/p/original-character-showcase-gizmo-the-rabbit/6.png&#34;
+	width=&#34;2658&#34;
+	height=&#34;3544&#34;
+	srcset=&#34;https://sabbyblue.github.io/p/original-character-showcase-gizmo-the-rabbit/6_hu35b25cf745e1782642f9f764f3b99358_1315566_480x0_resize_box_3.png 480w, https://sabbyblue.github.io/p/original-character-showcase-gizmo-the-rabbit/6_hu35b25cf745e1782642f9f764f3b99358_1315566_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;75&#34;
+		data-flex-basis=&#34;180px&#34;
+	
+&gt; &lt;img src=&#34;https://sabbyblue.github.io/p/original-character-showcase-gizmo-the-rabbit/8.png&#34;
+	width=&#34;2658&#34;
+	height=&#34;3544&#34;
+	srcset=&#34;https://sabbyblue.github.io/p/original-character-showcase-gizmo-the-rabbit/8_hu31a1f96df331d798b833adffa6ee3851_856493_480x0_resize_box_3.png 480w, https://sabbyblue.github.io/p/original-character-showcase-gizmo-the-rabbit/8_hu31a1f96df331d798b833adffa6ee3851_856493_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;75&#34;
+		data-flex-basis=&#34;180px&#34;
+	
+&gt; &lt;img src=&#34;https://sabbyblue.github.io/p/original-character-showcase-gizmo-the-rabbit/giz.png&#34;
+	width=&#34;2480&#34;
+	height=&#34;3508&#34;
+	srcset=&#34;https://sabbyblue.github.io/p/original-character-showcase-gizmo-the-rabbit/giz_hua454468244a4bc2432513f44bdac7169_1085257_480x0_resize_box_3.png 480w, https://sabbyblue.github.io/p/original-character-showcase-gizmo-the-rabbit/giz_hua454468244a4bc2432513f44bdac7169_1085257_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;70&#34;
+		data-flex-basis=&#34;169px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;a-shape-shifting-warrior-foretold-by-legend&#34;&gt;A shape-shifting warrior, foretold by legend.
+&lt;/h1&gt;&lt;p&gt;Lore to-be-added!&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Original Character Showcase: Primus Machina</title>
+        <link>https://sabbyblue.github.io/p/original-character-showcase-primus-machina/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://sabbyblue.github.io/p/original-character-showcase-primus-machina/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://sabbyblue.github.io/p/original-character-showcase-primus-machina/primus1.png&#34;
+	width=&#34;2913&#34;
+	height=&#34;3884&#34;
+	srcset=&#34;https://sabbyblue.github.io/p/original-character-showcase-primus-machina/primus1_hu94022f1bcdb2325d9d04640bcdc15f46_1299746_480x0_resize_box_3.png 480w, https://sabbyblue.github.io/p/original-character-showcase-primus-machina/primus1_hu94022f1bcdb2325d9d04640bcdc15f46_1299746_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;75&#34;
+		data-flex-basis=&#34;180px&#34;
+	
+&gt; &lt;img src=&#34;https://sabbyblue.github.io/p/original-character-showcase-primus-machina/primus6.png&#34;
+	width=&#34;2982&#34;
+	height=&#34;4218&#34;
+	srcset=&#34;https://sabbyblue.github.io/p/original-character-showcase-primus-machina/primus6_hu3373ed5fa0c847c46b36cbd1e9be0e0c_1614658_480x0_resize_box_3.png 480w, https://sabbyblue.github.io/p/original-character-showcase-primus-machina/primus6_hu3373ed5fa0c847c46b36cbd1e9be0e0c_1614658_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;70&#34;
+		data-flex-basis=&#34;169px&#34;
+	
+&gt; &lt;img src=&#34;https://sabbyblue.github.io/p/original-character-showcase-primus-machina/primus5.png&#34;
+	width=&#34;2658&#34;
+	height=&#34;3544&#34;
+	srcset=&#34;https://sabbyblue.github.io/p/original-character-showcase-primus-machina/primus5_hud511218fcdf23d07801b79893ef14ca1_2048395_480x0_resize_box_3.png 480w, https://sabbyblue.github.io/p/original-character-showcase-primus-machina/primus5_hud511218fcdf23d07801b79893ef14ca1_2048395_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;75&#34;
+		data-flex-basis=&#34;180px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;a-machinic-woman-from-the-future-sent-onto-the-past-to-amend-our-wrongs&#34;&gt;A machinic woman from the future, sent onto the past to amend our wrongs.
+&lt;/h1&gt;&lt;p&gt;She&amp;rsquo;s one of my latest characters.&lt;/p&gt;
+&lt;p&gt;It is said that she was a personal assistant bot who found herself flung onto a &lt;strong&gt;time vortex&lt;/strong&gt; of unknown destination. She wound up in prehistoric Europe, where she will alter the timeline by teaching the nearby settlements about modern science and technology.She shall be revered for her advancements and role in the founding of the first civilization, the Primal people.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://sabbyblue.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://sabbyblue.github.io/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
