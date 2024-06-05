@@ -51,7 +51,7 @@ params:
 
     sidebar:
         emoji: 💙
-        subtitle: Aspiring artist and Linux Enthusiast
+        subtitle: Welcome!
         avatar:
             enabled: true
             local: true
