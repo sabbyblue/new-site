@@ -5,6 +5,7 @@ description = ""
 tags = [
     "art",
 ]
+date = "2024-06-05"
 image = "primus.png"
 +++
 ![](primus1.png) ![](primus6.png) ![](primus5.png)
