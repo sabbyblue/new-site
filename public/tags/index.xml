@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Sabbyblue</title>
-        <link>https://sabbyblue.github.io/tags/</link>
+        <link>https://sabbyblue.blahaj.land/tags/</link>
         <description>Recent content in Tags on Sabbyblue</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Sabbyblue</copyright><atom:link href="https://sabbyblue.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>Sabbyblue</copyright><atom:link href="https://sabbyblue.blahaj.land/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Art</title>
-        <link>https://sabbyblue.github.io/tags/art/</link>
+        <link>https://sabbyblue.blahaj.land/tags/art/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://sabbyblue.github.io/tags/art/</guid>
+        <guid>https://sabbyblue.blahaj.land/tags/art/</guid>
         <description></description>
         </item>
         <item>
         <title>GNOME</title>
-        <link>https://sabbyblue.github.io/tags/gnome/</link>
+        <link>https://sabbyblue.blahaj.land/tags/gnome/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://sabbyblue.github.io/tags/gnome/</guid>
+        <guid>https://sabbyblue.blahaj.land/tags/gnome/</guid>
         <description></description>
         </item>
         
