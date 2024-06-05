@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Sabbyblue</title>
-        <link>https://sabbyblue.blahaj.land/post/</link>
+        <link>http://localhost:1313/post/</link>
         <description>Recent content in Posts on Sabbyblue</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Sabbyblue</copyright>
-        <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sabbyblue.blahaj.land/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Grace: Designing a mascot for the GNOME project</title>
-        <link>https://sabbyblue.blahaj.land/p/grace-designing-a-mascot-for-the-gnome-project/</link>
+        <link>http://localhost:1313/p/grace-designing-a-mascot-for-the-gnome-project/</link>
         <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://sabbyblue.blahaj.land/p/grace-designing-a-mascot-for-the-gnome-project/</guid>
-        <description>&lt;img src="https://sabbyblue.blahaj.land/p/grace-designing-a-mascot-for-the-gnome-project/grace.png" alt="Featured image of post Grace: Designing a mascot for the GNOME project" /&gt;&lt;p&gt;&lt;img src=&#34;https://sabbyblue.blahaj.land/p/grace-designing-a-mascot-for-the-gnome-project/grace.webp&#34;
+        <guid>http://localhost:1313/p/grace-designing-a-mascot-for-the-gnome-project/</guid>
+        <description>&lt;img src="http://localhost:1313/p/grace-designing-a-mascot-for-the-gnome-project/grace.png" alt="Featured image of post Grace: Designing a mascot for the GNOME project" /&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/grace-designing-a-mascot-for-the-gnome-project/grace.webp&#34;
 	width=&#34;4626&#34;
 	height=&#34;3084&#34;
-	srcset=&#34;https://sabbyblue.blahaj.land/p/grace-designing-a-mascot-for-the-gnome-project/grace_hu87110d25c309b92d9868ff2d8ccfa67a_374618_480x0_resize_q75_h2_box_2.webp 480w, https://sabbyblue.blahaj.land/p/grace-designing-a-mascot-for-the-gnome-project/grace_hu87110d25c309b92d9868ff2d8ccfa67a_374618_1024x0_resize_q75_h2_box_2.webp 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/grace-designing-a-mascot-for-the-gnome-project/grace_hu87110d25c309b92d9868ff2d8ccfa67a_374618_480x0_resize_q75_h2_box_2.webp 480w, http://localhost:1313/p/grace-designing-a-mascot-for-the-gnome-project/grace_hu87110d25c309b92d9868ff2d8ccfa67a_374618_1024x0_resize_q75_h2_box_2.webp 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -38,14 +38,14 @@
         </item>
         <item>
         <title>Original Character Showcase: Gizmo the Rabbit!</title>
-        <link>https://sabbyblue.blahaj.land/p/original-character-showcase-gizmo-the-rabbit/</link>
+        <link>http://localhost:1313/p/original-character-showcase-gizmo-the-rabbit/</link>
         <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://sabbyblue.blahaj.land/p/original-character-showcase-gizmo-the-rabbit/</guid>
-        <description>&lt;img src="https://sabbyblue.blahaj.land/p/original-character-showcase-gizmo-the-rabbit/gizmo.png" alt="Featured image of post Original Character Showcase: Gizmo the Rabbit!" /&gt;&lt;p&gt;&lt;img src=&#34;https://sabbyblue.blahaj.land/p/original-character-showcase-gizmo-the-rabbit/6.png&#34;
+        <guid>http://localhost:1313/p/original-character-showcase-gizmo-the-rabbit/</guid>
+        <description>&lt;img src="http://localhost:1313/p/original-character-showcase-gizmo-the-rabbit/gizmo.png" alt="Featured image of post Original Character Showcase: Gizmo the Rabbit!" /&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/original-character-showcase-gizmo-the-rabbit/6.png&#34;
 	width=&#34;2658&#34;
 	height=&#34;3544&#34;
-	srcset=&#34;https://sabbyblue.blahaj.land/p/original-character-showcase-gizmo-the-rabbit/6_hu35b25cf745e1782642f9f764f3b99358_1315566_480x0_resize_box_3.png 480w, https://sabbyblue.blahaj.land/p/original-character-showcase-gizmo-the-rabbit/6_hu35b25cf745e1782642f9f764f3b99358_1315566_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/original-character-showcase-gizmo-the-rabbit/6_hu35b25cf745e1782642f9f764f3b99358_1315566_480x0_resize_box_3.png 480w, http://localhost:1313/p/original-character-showcase-gizmo-the-rabbit/6_hu35b25cf745e1782642f9f764f3b99358_1315566_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -53,10 +53,10 @@
 		data-flex-grow=&#34;75&#34;
 		data-flex-basis=&#34;180px&#34;
 	
-&gt; &lt;img src=&#34;https://sabbyblue.blahaj.land/p/original-character-showcase-gizmo-the-rabbit/8.png&#34;
+&gt; &lt;img src=&#34;http://localhost:1313/p/original-character-showcase-gizmo-the-rabbit/8.png&#34;
 	width=&#34;2658&#34;
 	height=&#34;3544&#34;
-	srcset=&#34;https://sabbyblue.blahaj.land/p/original-character-showcase-gizmo-the-rabbit/8_hu31a1f96df331d798b833adffa6ee3851_856493_480x0_resize_box_3.png 480w, https://sabbyblue.blahaj.land/p/original-character-showcase-gizmo-the-rabbit/8_hu31a1f96df331d798b833adffa6ee3851_856493_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/original-character-showcase-gizmo-the-rabbit/8_hu31a1f96df331d798b833adffa6ee3851_856493_480x0_resize_box_3.png 480w, http://localhost:1313/p/original-character-showcase-gizmo-the-rabbit/8_hu31a1f96df331d798b833adffa6ee3851_856493_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -64,10 +64,10 @@
 		data-flex-grow=&#34;75&#34;
 		data-flex-basis=&#34;180px&#34;
 	
-&gt; &lt;img src=&#34;https://sabbyblue.blahaj.land/p/original-character-showcase-gizmo-the-rabbit/giz.png&#34;
+&gt; &lt;img src=&#34;http://localhost:1313/p/original-character-showcase-gizmo-the-rabbit/giz.png&#34;
 	width=&#34;2480&#34;
 	height=&#34;3508&#34;
-	srcset=&#34;https://sabbyblue.blahaj.land/p/original-character-showcase-gizmo-the-rabbit/giz_hua454468244a4bc2432513f44bdac7169_1085257_480x0_resize_box_3.png 480w, https://sabbyblue.blahaj.land/p/original-character-showcase-gizmo-the-rabbit/giz_hua454468244a4bc2432513f44bdac7169_1085257_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/original-character-showcase-gizmo-the-rabbit/giz_hua454468244a4bc2432513f44bdac7169_1085257_480x0_resize_box_3.png 480w, http://localhost:1313/p/original-character-showcase-gizmo-the-rabbit/giz_hua454468244a4bc2432513f44bdac7169_1085257_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -82,14 +82,14 @@
         </item>
         <item>
         <title>Original Character Showcase: Primus Machina</title>
-        <link>https://sabbyblue.blahaj.land/p/original-character-showcase-primus-machina/</link>
+        <link>http://localhost:1313/p/original-character-showcase-primus-machina/</link>
         <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://sabbyblue.blahaj.land/p/original-character-showcase-primus-machina/</guid>
-        <description>&lt;img src="https://sabbyblue.blahaj.land/p/original-character-showcase-primus-machina/primus.png" alt="Featured image of post Original Character Showcase: Primus Machina" /&gt;&lt;p&gt;&lt;img src=&#34;https://sabbyblue.blahaj.land/p/original-character-showcase-primus-machina/primus1.png&#34;
+        <guid>http://localhost:1313/p/original-character-showcase-primus-machina/</guid>
+        <description>&lt;img src="http://localhost:1313/p/original-character-showcase-primus-machina/primus.png" alt="Featured image of post Original Character Showcase: Primus Machina" /&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/original-character-showcase-primus-machina/primus1.png&#34;
 	width=&#34;2913&#34;
 	height=&#34;3884&#34;
-	srcset=&#34;https://sabbyblue.blahaj.land/p/original-character-showcase-primus-machina/primus1_hu94022f1bcdb2325d9d04640bcdc15f46_1299746_480x0_resize_box_3.png 480w, https://sabbyblue.blahaj.land/p/original-character-showcase-primus-machina/primus1_hu94022f1bcdb2325d9d04640bcdc15f46_1299746_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/original-character-showcase-primus-machina/primus1_hu94022f1bcdb2325d9d04640bcdc15f46_1299746_480x0_resize_box_3.png 480w, http://localhost:1313/p/original-character-showcase-primus-machina/primus1_hu94022f1bcdb2325d9d04640bcdc15f46_1299746_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -97,10 +97,10 @@
 		data-flex-grow=&#34;75&#34;
 		data-flex-basis=&#34;180px&#34;
 	
-&gt; &lt;img src=&#34;https://sabbyblue.blahaj.land/p/original-character-showcase-primus-machina/primus6.png&#34;
+&gt; &lt;img src=&#34;http://localhost:1313/p/original-character-showcase-primus-machina/primus6.png&#34;
 	width=&#34;2982&#34;
 	height=&#34;4218&#34;
-	srcset=&#34;https://sabbyblue.blahaj.land/p/original-character-showcase-primus-machina/primus6_hu3373ed5fa0c847c46b36cbd1e9be0e0c_1614658_480x0_resize_box_3.png 480w, https://sabbyblue.blahaj.land/p/original-character-showcase-primus-machina/primus6_hu3373ed5fa0c847c46b36cbd1e9be0e0c_1614658_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/original-character-showcase-primus-machina/primus6_hu3373ed5fa0c847c46b36cbd1e9be0e0c_1614658_480x0_resize_box_3.png 480w, http://localhost:1313/p/original-character-showcase-primus-machina/primus6_hu3373ed5fa0c847c46b36cbd1e9be0e0c_1614658_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -108,10 +108,10 @@
 		data-flex-grow=&#34;70&#34;
 		data-flex-basis=&#34;169px&#34;
 	
-&gt; &lt;img src=&#34;https://sabbyblue.blahaj.land/p/original-character-showcase-primus-machina/primus5.png&#34;
+&gt; &lt;img src=&#34;http://localhost:1313/p/original-character-showcase-primus-machina/primus5.png&#34;
 	width=&#34;2658&#34;
 	height=&#34;3544&#34;
-	srcset=&#34;https://sabbyblue.blahaj.land/p/original-character-showcase-primus-machina/primus5_hud511218fcdf23d07801b79893ef14ca1_2048395_480x0_resize_box_3.png 480w, https://sabbyblue.blahaj.land/p/original-character-showcase-primus-machina/primus5_hud511218fcdf23d07801b79893ef14ca1_2048395_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/original-character-showcase-primus-machina/primus5_hud511218fcdf23d07801b79893ef14ca1_2048395_480x0_resize_box_3.png 480w, http://localhost:1313/p/original-character-showcase-primus-machina/primus5_hud511218fcdf23d07801b79893ef14ca1_2048395_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
