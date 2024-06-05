@@ -5,6 +5,7 @@ description = ""
 tags = [
     "art",
 ]
+image = "gizmo.png"
 +++
 ![](6.png) ![](8.png) ![](giz.png)
 

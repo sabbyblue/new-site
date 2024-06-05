@@ -6,6 +6,7 @@ tags = [
     "art",
     "GNOME"
 ]
+image = "grace.png"
 +++
 
 ![](grace.webp)
