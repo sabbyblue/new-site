@@ -21,11 +21,11 @@ params:
     sidebar:
         compact: false
         emoji:
-        subtitle: Aspiring artist and Linux Enthusiast
+        subtitle: Welcome!
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/avatar.pngL
 
     article:
         headingAnchor: false
