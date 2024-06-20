@@ -6,6 +6,23 @@
         <description>Recent content in Tags on Sabbyblue</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Sabbyblue</copyright><atom:link href="https://sabbyblue.blahaj.land/tags/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Sabbyblue</copyright>
+        <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sabbyblue.blahaj.land/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Art</title>
+        <link>https://sabbyblue.blahaj.land/tags/art/</link>
+        <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://sabbyblue.blahaj.land/tags/art/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>GNOME</title>
+        <link>https://sabbyblue.blahaj.land/tags/gnome/</link>
+        <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://sabbyblue.blahaj.land/tags/gnome/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>
